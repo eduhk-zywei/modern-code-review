@@ -1,0 +1,11 @@
+X = Player 1
+O = Player 2
+Player 1 (X) - row col [1..3]: 1 1
+Player 2 (O) - row col [1..3]: 2 2
+Player 1 (X) - row col [1..3]: 1 2
+Player 2 (O) - row col [1..3]: 2 3
+Player 1 (X) - row col [1..3]: 1 3
+Win!
+Player 1 (X) wins.
+X X X
+  O O
